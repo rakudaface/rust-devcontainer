@@ -1,0 +1,4 @@
+Types: deb deb-src
+URIs: http://apt.llvm.org/bookworm/
+Suites: llvm-toolchain-bookworm-16
+Components: main
